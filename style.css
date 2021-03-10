@@ -2,7 +2,7 @@
     color: black;
 }
 .mainBackground{
-   background-image: url(../UX_UI_HW_21/images/hero\ image.jpg);  
+   background-image: url(../UX_UI_HW_21/images/welcome.png);  
    background-size: cover;
    background-repeat: no-repeat;
    height: 600px;
@@ -15,7 +15,7 @@
     width: 70%;
     min-width: 500px;
     max-width: 700px;
-    color: tan;
+    color: white;
     text-align: center;
 }
 #p1{
