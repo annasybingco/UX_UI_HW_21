@@ -18,6 +18,14 @@
     color: tan;
     text-align: center;
 }
+#p1{
+    padding-top: 42px;
+    margin-right: 30px;
+    margin-left: 30x;
+}
+#button2{
+    margin-right: 50px;
+}
 /*==================== 
 	Footer 
 ====================== */
